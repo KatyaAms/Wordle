@@ -19,6 +19,7 @@ img {
     display: flex;
     padding: 25px;
     margin: 0 25px;
+    justify-content: flex-start;
    
   
 }
